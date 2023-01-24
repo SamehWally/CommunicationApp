@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap-v4-rtl/dist/css/bootstrap-rtl.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+/*Fonts*/
+
+
+/* @import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css); */
+
+@font-face {
+    font-family: "JF-Flat";
+    src: url("./assets/fonts/JF-Flat-Regular.ttf");
+}
+
+@font-face {
+    font-family: "ah-naskh-hadith";
+    src: url("./assets/fonts/18410-ah-naskh-hadith.ttf");
+}
+
+@font-face {
+    font-family: "Droid-Arabic-Kufi-1";
+    src: url("./assets/fonts/Droid-Arabic-Kufi-1.ttf");
+}
+
+@font-face {
+    font-family: "Droid-Sans-Arabic";
+    src: url("./assets/fonts/Droid-Sans-Arabic.ttf");
+}
+
+@font-face {
+    font-family: "Droid-Arabic-Kufi";
+    src: url("./assets/fonts/Droid-Arabic-Kufi.ttf");
+}
+
+@font-face {
+    font-family: "ToyorAljanah";
+    src: url("./assets/fonts/ToyorAljanah-Regular.otf");
+}
+
+@font-face {
+    font-family: "Tajawal";
+    src: url("./assets/fonts/Tajawal-Medium.ttf");
+}
